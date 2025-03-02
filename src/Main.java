@@ -9,6 +9,8 @@ public class Main {
 
         operativa_cuenta(cuenta1, 695);
         operativa_cuenta(cuenta1, 500);
+        operativa_cuenta(cuenta1, 300);
+
 
     }
 
