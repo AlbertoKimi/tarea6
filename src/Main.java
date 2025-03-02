@@ -8,6 +8,8 @@ public class Main {
         System.out.println("El saldo actual es"+ saldoActual );
 
         operativa_cuenta(cuenta1, 695);
+        operativa_cuenta(cuenta1, 500);
+
     }
 
     public static double operativa_cuenta(CCuenta cuenta, float cantidad) {
